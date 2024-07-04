@@ -29,7 +29,7 @@ This project showcases a web application that scrapes flight data, identifies th
 - visit http://localhost:5000 to view the application
 - The cheapest flight routes and predicted prices will be displayed on the homepage.
 
-# About Me
+## About Me
 
 Hello! I'm Biplob Gon. 
 
@@ -43,5 +43,6 @@ Feel free to join me to make this world a better place by solving real-life prob
 You can view my resume here at -
 [Biplob_Gon_Data_Scientist_Resume.pdf](https://github.com/user-attachments/files/16097871/Biplob_Gon_Data_Scientist_Resume.pdf)
 
-   
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
    
